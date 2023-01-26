@@ -1,11 +1,11 @@
 ---
 username: Conroy lipids
-realname: Conroy lipids
+realname: Matthew Conroy
 website: 
 affiliation: 
 bio: 
-github: 
-orcid: 
+github: docmattc  
+orcid: 0000-0001-7297-9623
 linkedin: 
 googlescholar: 
 wikidata: 
